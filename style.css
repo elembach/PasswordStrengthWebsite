@@ -1,0 +1,78 @@
+/*Variables*/
+:root {
+    --main-bg-color: rgba(255, 252, 165, 0.9);
+    --nav-color: rgb(0, 221, 255);
+    --even-highlight: green;
+    --odd-highlight: yellow;
+}
+/*-------------------------------------------------------*/
+/* Everything*/
+* {
+    font-family: Prototype, Helvetica, sans-serif;
+    padding: 1%;
+    margin: 0%;
+}
+p, h1, h2, h3, h4, h5, h6,
+li, table, td, th, tr, textarea{
+    max-width: 70ch;
+}
+html {
+    background: rgb(109, 196, 255);
+}
+/*Headers*/
+h1 {
+    text-transform: uppercase;
+    font-size: 3em
+}
+/*Paragraphs*/
+p {
+    text-indent: 4%;
+    font-size: large;
+}
+/*Body*/
+body{
+    width: 75%;
+    margin: auto;
+    background-color: var(--main-bg-color);
+}
+
+
+
+
+
+
+
+
+/*------------------------------------------------------*/
+
+/* TODO: Change/add whichever style rules you want
+body {
+    background-color: lightblue;
+    margin: 3%;
+}
+header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: lavender;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+code {
+    display: inline-block;
+    padding: 10px;
+    background-color: lightgrey;
+    border: 1px solid grey;
+    color: green;
+}
+form {
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 3em;
+    width: 20%;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid white;
+} */

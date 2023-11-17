@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "M3OEP_sdwill_elembach",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "M3OEP_sdwill_elembach::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M3OEP_sdwill_elembach-Debug-7063d3a371685b4ed13f.json",
+					"name" : "M3OEP_sdwill_elembach",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/elizabethlembach/CLionProjects/M3OEP-sdwill-elembach/cmake-build-debug",
+		"source" : "/Users/elizabethlembach/CLionProjects/M3OEP-sdwill-elembach"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
